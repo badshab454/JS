@@ -5,3 +5,7 @@ h1 {
 #middle {
     display: block;
 }
+
+p {
+    text-align: center;
+}
