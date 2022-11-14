@@ -2,6 +2,10 @@
     color: aqua;
 } */
 
+.margin {
+    margin: 50px;
+}
+
 #middle {
     display: block;
 }
