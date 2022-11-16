@@ -1,5 +1,5 @@
 var petDog = 'Rex';
 var petCat = 'Pepper';
 
-console.log(petDog);
+console.log("My pet name is " + petDog);
 console.log(petCat);
