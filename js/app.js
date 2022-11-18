@@ -4,3 +4,4 @@ if (result > 40) {
 } else {
     console.log("Unfortunately you did not pass.");
 }
+
