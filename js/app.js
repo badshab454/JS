@@ -1,7 +1,3 @@
-var age = 10;
-
-if (age >= 65) {
-    console.log('You get your income from your pension');
-} else {
-    console.log('keep working');
+for (i=1; i<=5; i+=1) {
+    console.log(i);
 }
