@@ -1,15 +1,30 @@
-/* h1 {
-    color: aqua;
-} */
-
-.margin {
-    margin: 60px;
+body {
+    background-color: #E0E0E2;
 }
 
-#middle {
+h1 {
+    color: #721817;
+}
+
+h2 {
+    color: #721817;
+}
+
+.center-text {
+    text-align: center;
+}
+
+#logo {
+    margin: auto;
     display: block;
 }
 
-p {
-    text-align: center;
+h2 span {
+    color: #FA9F42;
+    font-size: 0.75em;
+}
+
+#copyright {
+    padding-top: 12px;
+    font-size: 0.75em;
 }
