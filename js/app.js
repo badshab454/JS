@@ -1,2 +1,3 @@
-var colors = ['red', 'orange', 'yellow', 'green'];
-console.log(...colors);
+function letterFinder(word, match) {
+    
+}
