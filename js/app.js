@@ -4,4 +4,4 @@ var table = {
     priceUSD: 100,
 }
 
-console.log(table);
+console.log(table.color);
