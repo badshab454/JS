@@ -1,7 +1,3 @@
-var vaggies = ['onion', 'parsley', 'carrot'];
+var clothes = ['pant','shirt', 'short', 'tshirt', 'jacket'];
 
-console.log(vaggies[1]);
-
-for (var i = 0; i < vaggies.length; i++) {
-    console.log(vaggies[i]);
-}
+console.log(clothes[2]);
