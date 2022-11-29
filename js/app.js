@@ -1,3 +1,3 @@
 var fruits = [];
-fruits.push("apple");
+fruits.push("apple", "pear");
 console.log(fruits);
