@@ -1,3 +1,4 @@
-var clothes = ['pant','shirt', 'short', 'tshirt', 'jacket'];
+var car = {};
+car.color = "red";
 
-console.log(clothes[2]);
+console.log(car);
