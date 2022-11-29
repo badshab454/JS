@@ -1,3 +1,1 @@
-var fruits = [];
-fruits.push("apple", "pear");
-console.log(fruits);
+console.log(Math.PI);
