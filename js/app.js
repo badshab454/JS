@@ -1,3 +1,3 @@
 var vaggies = ['onion', 'parsley', 'carrot'];
 
-console.log(vaggies[0]);
+console.log(vaggies[1]);
