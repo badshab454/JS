@@ -1,4 +1,2 @@
-var car = {};
-car.color = "red";
+var user;
 
-console.log(car);
