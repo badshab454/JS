@@ -5,4 +5,5 @@ function totalPrice(shoes, tax) {
     return shoes * tax;
 }
 
-totalPrice();
+var toPay = totalPrice(shoes, stateTax);
+console.log(toPay);
