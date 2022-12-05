@@ -1,0 +1,3 @@
+var bird = {
+    hasWings: true;
+}
