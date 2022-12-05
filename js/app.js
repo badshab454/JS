@@ -4,4 +4,4 @@ var bird = {
     hasFeathers: true
 }
 
-console.log(bird.canFly);
+console.log(bird.hasFeathers);
