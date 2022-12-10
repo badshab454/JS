@@ -1,7 +1,4 @@
-const car = {
-    speed: 100,
-    color: "blue"
+const colors = ['red', 'orange', 'yellow']
+for (var color of colors) {
+    console.log(color``);
 }
-
-
-console.log(car);
