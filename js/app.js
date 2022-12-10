@@ -3,4 +3,5 @@ const car = {
     color: "blue"
 }
 
+
 console.log(car);
