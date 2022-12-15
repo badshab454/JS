@@ -1,3 +1,5 @@
-let answer = promt('What is your name?')
+let a = 1;
 
-console.log(answer);
+a = 2;
+
+console.log(a);
