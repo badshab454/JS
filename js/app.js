@@ -1,6 +1,3 @@
-try {
-    throw new Error();
-    console.log('Square');
-} catch(err) {
-    console.log('Circle');
-}
+//ES6
+//REST & SPREAD OPERATOR
+//EXAMPLE REST
