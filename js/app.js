@@ -3,10 +3,10 @@
 //EXAMPLE REST
 
 function concatNumbers (a,b,c,...other) {
-    console.log(other[0]);
+    console.log(arguments);
     return a+b+c;
 } 
 
-var sum = concatNumbers(1,2,3,4,5);
+var sum = concatNumbers(1,2,3,4,5,6,7,8);
 
 console.log(sum);
