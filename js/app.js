@@ -3,7 +3,7 @@
 //EXAMPLE REST
 
 function concatNumbers (a,b,c,...other) {
-    console.log(other);
+    console.log(other[0]);
     return a+b+c;
 } 
 
